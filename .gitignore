@@ -1,0 +1,6 @@
+# Do not track content of this folders
+__pycache__/
+test*.py
+CRM*.py
+*.log
+*.txt
